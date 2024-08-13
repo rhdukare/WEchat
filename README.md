@@ -5,7 +5,7 @@
 ### Installation 🛠️
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/websocket-chatroom.git
+    git clone https://github.com/rhdukare/WEchat.git
     ```
 2. Build the project:
     ```bash
